@@ -1,11 +1,18 @@
 {
     "name": "nearprosmtith/php-themeparks",
     "type": "library",
+    "description": "",
     "authors": [
         {
             "name": "nearprosmith",
             "email": "nearprosmith@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "php": ">=7.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^8.4",
+        "psy/psysh": "^0.9.11"
+    }
 }
