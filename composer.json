@@ -1,0 +1,11 @@
+{
+    "name": "nearprosmtith/php-themeparks",
+    "type": "library",
+    "authors": [
+        {
+            "name": "nearprosmith",
+            "email": "nearprosmith@gmail.com"
+        }
+    ],
+    "require": {}
+}
